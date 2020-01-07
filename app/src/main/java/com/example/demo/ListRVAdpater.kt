@@ -25,6 +25,7 @@ class ListRVAdpater(private val context: Context, private val array: ArrayList<S
         val file = array[position]
 
 
+
         holder.tvName.text = file
 
         holder.tvName.setOnClickListener {
