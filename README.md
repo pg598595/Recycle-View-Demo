@@ -1,2 +1,18 @@
 # Recycle-View-Demo
-Using Recycle View , Edit text
+
+<br>
+### Includes:
+Recycle View.<br>
+EditText.<br>
+Drop Down in editText.<br>
+
+
+
+
+### A Glance
+<img align="left" src="" width=270 height=500>
+
+<img align="right" src="" width=270 height=500>
+
+<img align="middle" src="" width=270 height=500>
+
